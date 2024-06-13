@@ -1,4 +1,4 @@
-# Predicting the results of the Euros 2024
+# Predicting the results of the Euros 2024 ⚽
 
 This is python code which tries to predict the results of the 2024 Euros football competition in Germany.
 
@@ -15,4 +15,4 @@ Full credit for the code must go to Mihir Gharat, whom shared this code on Linke
 
 Clone the repository or copy the code, and find out who is predicted to win the tournament!
 
-And... where do England finish?
+And... where do England finish? 🤔
